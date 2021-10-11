@@ -1,48 +1,48 @@
-"Color1","Color2","State_B"
-"Red","White","Alabama"
-"None","None","Alaska"
-"Dark Blue","Gold","Arizona"
-"None","None","Arkansas"
-"Blue","Gold","California"
-"None","None","Colorado"
-"None","None","Connecticut"
-"Colonial Blue","Buff","Deleware"
-"Orange","Red","Florida"
-"Red","White","Georgia"
-"Red","Pink","Hawaii"
-"Red","Green","Idaho"
-"None","None","Illinois"
-"Blue","Gold","Indiana"
-"None","None","Iowa"
-"None","None","Kansas"
-"Orange","None","Kentucky"
-"Blue","White","Louisiana"
-"None","None","Maine"
-"Red","White","Maryland"
-"Blue","Green","Massachusetts"
-"None","None","Michigan"
-"Purple","Gold","Minnesota"
-"None","None","Missisippi"
-"None","None","Missouri"
-"None","None","Nebraska"
-"Sikver","Blue","Nevada"
-"None","None","New Hampshire"
-"Buff","Blue","New Jersey"
-"Red","Yellow","New Mexico"
-"Dark Blue","Gold","New York"
-"None","None","North Dakota"
-"Red","White","Ohio"
-"Green","White","Oklahoma"
-"Navy Blue","Gold","Oregon"
-"Blue","Gold","Pennsylvania"
-"None","None","Rhode Isladn"
-"Navy Blue","Gold","South Dakota"
-"Orange","White","Tennessee"
-"Blue","White","Texas"
-"Yellow","None","Utah"
-"None","None","Vermont"
-"None","None","Virginia"
-"Dark Green","Gold","Washington"
-"Gold","Blue","West Virginia"
-"None","None","Wisconsin"
-"None","None","Wyoming"
+﻿State,Color1,Color2
+Alabama,Red,White
+Alaska,None,None
+Arizona,Dark Blue,Gold
+Arkansas,None,None
+California,Blue,Gold
+Colorado,None,None
+Connecticut,None,None
+Delaware,Colonial Blue,Buff
+Florida,Orange,Red
+Georgia,Red,White
+Hawaii,Red,Pink
+Idaho,Red,Green
+Illinois,None,None
+Indiana,Blue,Gold
+Iowa,None,None
+Kansas,None,None
+Kentucky,Orange,None
+Louisiana,Blue,White
+Maine,None,None
+Maryland,Red,White
+Massachusetts,Blue,Green
+Michigan,None,None
+Minnesota,Purple,Gold
+Mississippi,None,None
+Missouri,None,None
+Nebraska,None,None
+Nevada,Silver,Blue
+New Hampshire,None,None
+New Jersey,Buff,Blue
+New Mexico,Red,Yellow
+New York,Dark Blue,Gold
+North Dakota,None,None
+Ohio,Red,White
+Oklahoma,Green,White
+Oregon,Navy Blue,Gold
+Pennsylvania,Blue,Gold
+Rhode Island,None,None
+South Dakota,Navy Blue,Gold
+Tennessee,Orange,White
+Texas,Blue,White
+Utah,Yellow,None
+Vermont,None,None
+Virginia,None,None
+Washington,Dark Green,Gold
+West Virginia,Gold,Blue
+Wisconsin,None,None
+Wyoming,None,None
